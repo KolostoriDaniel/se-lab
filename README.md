@@ -41,4 +41,4 @@ The code can be built, but due to missing features one of the tests fails. The f
 
 [![Java CI with Maven](https://github.com/KolostoriDaniel/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/KolostoriDaniel/se-lab/actions/workflows/maven.yml)
 
-https://img.shields.io/badge/MIT%20-%20License
+![Static Badge](https://img.shields.io/badge/MIT%20-%20License)
